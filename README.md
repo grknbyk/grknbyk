@@ -9,11 +9,11 @@ Hi there! I'm Gürkan, a Computer Engineering student with a passion for full-st
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Java, Python, JavaScript, HTML/CSS, SQL
-- **Frameworks/Libraries**: React, Django, FastAPI, Node.js
+- **Languages**: Python, Java, SQL (PL/SQL), HTML/CSS, JavaScript   
+- **Frameworks/Libraries**: jQuery, Flask, FastAPI, Django, React, Node.js
 - **Data Science**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
 - **Tools**: Git, VS Code
-- **Knowledge Areas**: OOP, RESTful APIs, Back-end Development, Web Scraping, Data Mining, Machine Learning
+- **Knowledge Areas**: OOP, RESTful APIs, Back-end Development, Web Scraping, Data Mining, Machine Learning, Database Management
 
 ## 🚀 Featured Projects
 
@@ -41,7 +41,7 @@ Hi there! I'm Gürkan, a Computer Engineering student with a passion for full-st
 
 ## 🎓 Education
 
-- **Bachelor of Computer Engineering** (English) - Dokuz Eylül University (2020-2025)
+- **Bachelor of Computer Engineering** (English) - **Dokuz Eylül University** (2020-2025)
 
 ## 📫 Contact Me
 
