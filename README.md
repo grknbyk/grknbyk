@@ -1,8 +1,8 @@
 # Gürkan Bıyık
 
-## 👨‍💻 Software Engineer
+## 👨‍💻 Software Developer
 
-Hi there! I'm Gürkan, a Computer Engineering student with a passion for full-stack development, data science, and machine learning. I enjoy building practical applications that solve daily real-world problems.
+Hi there! I'm Gürkan, a software developer with a passion for full-stack development, data science, and machine learning. I enjoy building practical applications that solve daily real-world problems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/grkanbyk)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gurkan.biyik@outlook.com)
@@ -35,9 +35,7 @@ Hi there! I'm Gürkan, a Computer Engineering student with a passion for full-st
 
 ## 📊 GitHub Stats
 
-![Gürkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=grknbyk&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grknbyk&layout=compact&theme=radical)
+![Gürkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=grknbyk&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grknbyk&layout=compact&theme=radical)
 
 ## 🎓 Education
 
