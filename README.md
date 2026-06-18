@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Software Developer
 
-Hi there! I'm Gürkan, a software developer with a passion for full-stack development, data science, and machine learning. I enjoy building practical applications that solve daily real-world problems.
+Software Developer with hands-on experience delivering real-world ERP solutions. Currently developing full-featured, responsive, and functional web applications using Oracle APEX, leveraging PL/SQL, SQL, and JavaScript (jQuery, AJAX), focused on writing clean, maintainable code.
 
 [![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge)](https://raw.githubusercontent.com/grknbyk/resume/main/gurkan_biyik_resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/grkanbyk)
