@@ -10,11 +10,11 @@ Hi there! I'm Gürkan, a software developer with a passion for full-stack develo
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Python, Java, SQL (PL/SQL), HTML/CSS, JavaScript   
-- **Frameworks/Libraries**: jQuery, Flask, FastAPI, Django, React, Node.js
+- **Languages**: SQL (PL/SQL), Python, HTML/CSS, JavaScript, Java   
+- **Frameworks/Libraries**: jQuery, Flask, FastAPI
 - **Data Science**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
-- **Tools**: Git, VS Code, Oracle APEX, Claude Code
-- **Knowledge Areas**: OOP, RESTful APIs, Back-end Development, Web Scraping, Data Mining, Machine Learning, Database Management
+- **Tools**: Git, VS Code, Oracle Apex, Claude Code
+- **Knowledge Areas**: OOP, RESTful APIs, Web Development, Web Scraping, Data Mining, Machine Learning, Database
 
 ## 🚀 Featured Projects
 
