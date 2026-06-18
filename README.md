@@ -4,15 +4,16 @@
 
 Hi there! I'm Gürkan, a software developer with a passion for full-stack development, data science, and machine learning. I enjoy building practical applications that solve daily real-world problems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/grkanbyk)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gurkan.biyik@outlook.com)
+[![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge)](https://raw.githubusercontent.com/grknbyk/resume/main/gurkan_biyik_resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/grkanbyk)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:gurkan.biyik@outlook.com)
 
 ## 🛠️ Tech Stack
 
 - **Languages**: Python, Java, SQL (PL/SQL), HTML/CSS, JavaScript   
 - **Frameworks/Libraries**: jQuery, Flask, FastAPI, Django, React, Node.js
 - **Data Science**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
-- **Tools**: Git, VS Code
+- **Tools**: Git, VS Code, Oracle APEX, Claude Code
 - **Knowledge Areas**: OOP, RESTful APIs, Back-end Development, Web Scraping, Data Mining, Machine Learning, Database Management
 
 ## 🚀 Featured Projects
