@@ -36,7 +36,7 @@ Software Developer with hands-on experience delivering real-world ERP solutions.
 
 ## 📊 GitHub Stats
 
-![Gürkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=grknbyk&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grknbyk&layout=compact&theme=radical)
+![Gürkan's GitHub stats](https://github-stats-extended.vercel.app/api?username=grknbyk&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=grknbyk&layout=compact&theme=radical)
 
 ## 🎓 Education
 
